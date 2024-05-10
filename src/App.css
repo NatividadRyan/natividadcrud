@@ -5,7 +5,8 @@
   text-align: center;
 }
 
-button, input {
+button,
+input {
   margin: 0 20px 0 20px;
 }
 
@@ -15,10 +16,9 @@ li {
 }
 
 .primary {
-  background-color: #535bf2;
+  background-color: green;
 }
 
 .destructive {
   background-color: darkred;
 }
-
